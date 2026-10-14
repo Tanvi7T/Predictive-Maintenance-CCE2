@@ -1,8 +1,6 @@
 # Predictive-Maintenance-CCE2
 Predictive Maintenance for Computer Laboratory Equipment using K-Means and Decision Tree.
 
-Predictive Maintenance for Computer Laboratory Equipment
-
 Case Study – CCE-2
 
 1. Introduction
