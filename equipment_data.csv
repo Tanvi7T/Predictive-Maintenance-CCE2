@@ -1,0 +1,201 @@
+Equipment_ID,Equipment_Type,Usage_Hours,Temperature,Fault_Count,Equipment_Age,Maintenance_Risk
+EQ001,Network Device,4,78,2,10,Medium
+EQ002,Computer,1,46,3,4,Low
+EQ003,Network Device,14,73,7,8,High
+EQ004,Network Device,1,57,3,9,Medium
+EQ005,Computer,10,59,1,7,Medium
+EQ006,Computer,4,58,2,1,Low
+EQ007,Network Device,12,75,3,3,Medium
+EQ008,Printer,14,82,0,9,High
+EQ009,Network Device,7,35,0,1,Low
+EQ010,Network Device,2,64,4,9,Medium
+EQ011,Network Device,3,70,2,8,Medium
+EQ012,Network Device,1,66,2,1,Medium
+EQ013,Computer,5,53,4,6,Medium
+EQ014,Network Device,1,58,3,5,Low
+EQ015,Printer,8,78,2,6,Medium
+EQ016,Computer,1,75,0,10,Medium
+EQ017,Printer,11,82,0,5,Medium
+EQ018,Printer,1,60,7,6,Medium
+EQ019,Printer,2,64,1,5,Low
+EQ020,Printer,2,62,2,5,Low
+EQ021,Computer,12,81,3,4,Medium
+EQ022,Computer,6,50,4,3,Medium
+EQ023,Printer,7,61,4,3,Medium
+EQ024,Printer,5,52,3,4,Low
+EQ025,Computer,16,62,6,9,High
+EQ026,Computer,1,32,5,2,Medium
+EQ027,Computer,1,47,1,9,Medium
+EQ028,Network Device,3,54,4,1,Medium
+EQ029,Network Device,14,71,2,1,Medium
+EQ030,Network Device,2,60,1,5,Low
+EQ031,Printer,5,83,2,6,Medium
+EQ032,Network Device,12,32,6,6,High
+EQ033,Printer,10,69,0,3,Medium
+EQ034,Printer,16,75,1,7,High
+EQ035,Network Device,6,53,7,9,Medium
+EQ036,Printer,16,79,4,10,High
+EQ037,Network Device,7,61,1,8,Medium
+EQ038,Network Device,4,76,1,6,Medium
+EQ039,Computer,7,51,1,8,Medium
+EQ040,Network Device,11,52,5,5,Medium
+EQ041,Computer,8,31,1,8,Medium
+EQ042,Network Device,11,56,2,10,Medium
+EQ043,Network Device,1,71,0,4,Medium
+EQ044,Computer,15,31,6,10,High
+EQ045,Computer,6,55,3,8,Medium
+EQ046,Network Device,8,46,1,10,Medium
+EQ047,Printer,5,69,4,2,Medium
+EQ048,Computer,4,62,1,5,Low
+EQ049,Printer,2,38,4,9,Medium
+EQ050,Printer,6,72,2,4,Medium
+EQ051,Printer,6,83,4,6,High
+EQ052,Computer,11,77,7,1,Medium
+EQ053,Printer,15,68,3,9,High
+EQ054,Computer,16,58,0,1,Medium
+EQ055,Printer,16,71,4,5,High
+EQ056,Network Device,1,84,4,4,Medium
+EQ057,Network Device,9,55,0,3,Low
+EQ058,Computer,12,64,3,6,Medium
+EQ059,Network Device,11,79,1,2,Medium
+EQ060,Network Device,6,54,4,3,Medium
+EQ061,Printer,16,53,0,5,Medium
+EQ062,Computer,13,42,7,9,High
+EQ063,Printer,3,36,7,2,Medium
+EQ064,Printer,4,65,2,10,Medium
+EQ065,Printer,12,74,0,8,High
+EQ066,Printer,11,49,2,2,Low
+EQ067,Printer,4,30,7,5,Medium
+EQ068,Printer,3,37,3,7,Medium
+EQ069,Printer,10,75,1,8,Medium
+EQ070,Computer,3,45,0,1,Low
+EQ071,Network Device,15,43,6,6,High
+EQ072,Printer,3,41,7,1,Medium
+EQ073,Printer,4,80,7,2,Medium
+EQ074,Printer,16,52,6,1,Medium
+EQ075,Printer,7,44,5,5,Medium
+EQ076,Printer,4,57,7,10,Medium
+EQ077,Printer,9,63,4,9,Medium
+EQ078,Network Device,1,31,3,6,Medium
+EQ079,Network Device,8,61,0,1,Low
+EQ080,Printer,16,52,6,1,Medium
+EQ081,Network Device,7,51,4,2,Medium
+EQ082,Computer,2,80,6,9,High
+EQ083,Printer,8,54,0,3,Low
+EQ084,Computer,1,51,2,1,Low
+EQ085,Computer,11,51,0,5,Low
+EQ086,Printer,12,78,5,7,High
+EQ087,Network Device,9,81,0,6,Medium
+EQ088,Computer,9,71,0,1,Medium
+EQ089,Printer,2,35,5,5,Medium
+EQ090,Computer,7,44,3,5,Low
+EQ091,Computer,15,83,7,6,High
+EQ092,Computer,14,72,0,3,Medium
+EQ093,Computer,10,66,5,5,Medium
+EQ094,Network Device,3,62,4,7,Medium
+EQ095,Computer,7,37,2,5,Low
+EQ096,Computer,12,82,2,5,Medium
+EQ097,Computer,16,73,0,5,Medium
+EQ098,Network Device,10,73,3,10,Medium
+EQ099,Computer,16,34,3,10,Medium
+EQ100,Computer,9,68,4,3,Medium
+EQ101,Network Device,4,33,0,1,Low
+EQ102,Network Device,12,35,2,5,Medium
+EQ103,Network Device,1,74,3,9,Medium
+EQ104,Computer,2,61,0,1,Low
+EQ105,Network Device,1,81,6,3,Medium
+EQ106,Network Device,16,59,3,4,Medium
+EQ107,Computer,14,76,5,1,High
+EQ108,Network Device,12,64,6,1,Medium
+EQ109,Computer,5,84,7,8,High
+EQ110,Printer,5,69,3,2,Medium
+EQ111,Network Device,16,81,2,8,High
+EQ112,Printer,11,45,1,7,Medium
+EQ113,Computer,7,42,6,10,Medium
+EQ114,Network Device,9,79,7,10,High
+EQ115,Computer,9,71,4,2,Medium
+EQ116,Printer,3,59,4,6,Medium
+EQ117,Computer,3,48,2,6,Medium
+EQ118,Network Device,16,46,3,3,Medium
+EQ119,Network Device,16,85,0,2,Medium
+EQ120,Printer,3,48,3,1,Low
+EQ121,Computer,4,57,2,6,Medium
+EQ122,Network Device,8,84,4,5,Medium
+EQ123,Printer,6,55,3,9,Medium
+EQ124,Network Device,8,66,4,1,Medium
+EQ125,Network Device,1,55,6,7,Medium
+EQ126,Computer,8,82,7,5,Medium
+EQ127,Network Device,4,52,0,5,Low
+EQ128,Computer,11,38,6,2,Medium
+EQ129,Network Device,1,41,4,3,Medium
+EQ130,Printer,8,82,4,7,High
+EQ131,Network Device,4,30,1,6,Medium
+EQ132,Computer,6,30,1,2,Low
+EQ133,Computer,8,76,6,6,High
+EQ134,Printer,4,63,5,2,Medium
+EQ135,Network Device,14,61,6,2,Medium
+EQ136,Network Device,3,83,1,2,Medium
+EQ137,Printer,16,77,4,3,High
+EQ138,Network Device,14,54,2,2,Medium
+EQ139,Network Device,9,69,6,4,Medium
+EQ140,Computer,3,74,4,9,High
+EQ141,Network Device,9,82,2,6,Medium
+EQ142,Network Device,13,30,2,1,Medium
+EQ143,Printer,2,45,1,8,Medium
+EQ144,Printer,16,68,6,7,High
+EQ145,Computer,14,34,3,10,Medium
+EQ146,Network Device,2,51,0,3,Low
+EQ147,Network Device,2,58,1,1,Low
+EQ148,Network Device,6,84,1,5,Medium
+EQ149,Computer,3,32,3,4,Low
+EQ150,Computer,16,41,0,10,Medium
+EQ151,Printer,13,55,4,8,High
+EQ152,Computer,9,45,5,1,Medium
+EQ153,Network Device,4,80,6,10,High
+EQ154,Network Device,1,66,5,1,Medium
+EQ155,Computer,4,51,4,4,Medium
+EQ156,Network Device,1,58,7,8,Medium
+EQ157,Network Device,14,43,1,5,Medium
+EQ158,Computer,5,57,0,2,Low
+EQ159,Computer,16,34,1,6,Medium
+EQ160,Network Device,4,76,2,5,Medium
+EQ161,Network Device,8,78,1,2,Medium
+EQ162,Network Device,16,59,1,3,Medium
+EQ163,Printer,8,75,4,9,High
+EQ164,Printer,7,81,4,7,High
+EQ165,Printer,3,34,4,7,Medium
+EQ166,Computer,1,41,5,6,Medium
+EQ167,Printer,16,45,2,8,Medium
+EQ168,Computer,1,55,7,4,Medium
+EQ169,Computer,16,55,7,8,High
+EQ170,Printer,12,77,4,4,High
+EQ171,Printer,11,50,0,8,Medium
+EQ172,Printer,3,68,5,9,High
+EQ173,Network Device,6,65,3,3,Medium
+EQ174,Printer,7,62,0,3,Low
+EQ175,Network Device,6,59,6,2,Medium
+EQ176,Computer,14,66,6,10,High
+EQ177,Network Device,14,52,0,3,Medium
+EQ178,Printer,6,39,4,3,Medium
+EQ179,Computer,6,83,3,5,Medium
+EQ180,Computer,13,34,3,5,Medium
+EQ181,Computer,3,65,5,2,Medium
+EQ182,Network Device,6,63,3,10,Medium
+EQ183,Printer,8,81,6,6,High
+EQ184,Computer,11,60,2,5,Low
+EQ185,Computer,11,39,4,6,Medium
+EQ186,Computer,2,48,3,1,Low
+EQ187,Network Device,5,61,5,5,Medium
+EQ188,Network Device,14,30,6,9,High
+EQ189,Printer,1,85,2,10,Medium
+EQ190,Network Device,12,34,1,2,Medium
+EQ191,Computer,15,74,1,1,Medium
+EQ192,Printer,16,33,2,10,Medium
+EQ193,Computer,1,45,6,9,Medium
+EQ194,Computer,5,53,5,10,Medium
+EQ195,Network Device,12,45,2,9,Medium
+EQ196,Printer,13,84,4,9,High
+EQ197,Network Device,16,31,4,6,High
+EQ198,Network Device,3,78,1,8,Medium
+EQ199,Printer,4,57,3,1,Low
+EQ200,Computer,3,61,5,10,Medium
