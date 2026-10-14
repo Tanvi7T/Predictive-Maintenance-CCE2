@@ -3,7 +3,7 @@ Predictive Maintenance for Computer Laboratory Equipment using K-Means and Decis
 
 Case Study – CCE-2
 
-##1. Introduction
+#1. Introduction
 
 Predictive maintenance uses data analysis and machine learning techniques to identify equipment that may require maintenance. This case study focuses on predicting maintenance risk for computer laboratory equipment using usage hours, temperature, fault records, and equipment age.
 
